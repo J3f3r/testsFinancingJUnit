@@ -30,3 +30,11 @@ Foram implementados 10 testes cobrindo construtores, métodos de cálculo e mét
 - JUnit 5
 - Maven
 - STS (Spring Tool Suite)
+
+### 📊 Resultado dos Testes
+```text
+✔ constructorShouldCreateObjectWhenDataIsValid
+✔ constructorShouldThrowsExceptionWhenDataIsInvalid
+✔ setTotalAmountShouldUpdateWhenDataIsValid
+...
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0
